@@ -50,11 +50,6 @@
 </head>
 <body>
 
-<!-- Add EmailJS script -->
-<script src="https://cdn.emailjs.com/dist/email.min.js"></script>
-<script>
-  emailjs.init("YOUR_USER_ID"); // replace with your EmailJS user ID
-</script>
 
 <!-- Intro -->
 <div class="page active" id="intro">
